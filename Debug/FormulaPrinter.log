@@ -1,0 +1,16 @@
+﻿  formula_printer.cpp
+e:\课程资料\cs类\编译原理和技术\formulaprinter 4.0\formula_printer.cpp(349): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\课程资料\cs类\编译原理和技术\formulaprinter 4.0\formula_printer.cpp(350): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\课程资料\cs类\编译原理和技术\formulaprinter 4.0\formula_printer.cpp(355): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\课程资料\cs类\编译原理和技术\formulaprinter 4.0\formula_printer.cpp(465): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\课程资料\cs类\编译原理和技术\formulaprinter 4.0\formula_printer.cpp(466): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\课程资料\cs类\编译原理和技术\formulaprinter 4.0\formula_printer.cpp(472): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\课程资料\cs类\编译原理和技术\formulaprinter 4.0\formula_printer.cpp(498): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\课程资料\cs类\编译原理和技术\formulaprinter 4.0\formula_printer.cpp(499): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\课程资料\cs类\编译原理和技术\formulaprinter 4.0\formula_printer.cpp(521): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\课程资料\cs类\编译原理和技术\formulaprinter 4.0\formula_printer.cpp(574): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\课程资料\cs类\编译原理和技术\formulaprinter 4.0\formula_printer.cpp(580): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\课程资料\cs类\编译原理和技术\formulaprinter 4.0\formula_printer.cpp(583): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\课程资料\cs类\编译原理和技术\formulaprinter 4.0\formula_printer.cpp(586): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  FormulaPrinter.vcxproj -> E:\课程资料\CS类\编译原理和技术\FormulaPrinter 4.0\Debug\FormulaPrinter.exe
+  FormulaPrinter.vcxproj -> E:\课程资料\CS类\编译原理和技术\FormulaPrinter 4.0\Debug\FormulaPrinter.pdb (Partial PDB)
